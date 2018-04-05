@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Personal blog for tech and other posts",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabhjyotgambhir/Blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Prabhjyot Gambhir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabhjyotgambhir/Blog/issues"
+  },
+  "homepage": "https://github.com/Prabhjyotgambhir/Blog#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12",
+    "morgan": "^1.9.0"
+  }
+}
